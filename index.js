@@ -51,7 +51,7 @@ const sendMail = async (toEmail, name) => {
       secure: false,
       auth: {
         user: "moinwkhan21@gmail.com",
-        pass: process.env.EMAIL_PASSWORD,
+        pass: "ruaocobykdbdxfhl",
       },
     });
 
